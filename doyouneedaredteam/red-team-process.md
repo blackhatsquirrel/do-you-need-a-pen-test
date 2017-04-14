@@ -10,4 +10,5 @@ Even if you're still in the position when you comission the test it will allow y
 
 [As with all our stuff this is free to use / steal / modify for any purpose (this one under the MIT license) and as with all our stuff credit must include at least one reference to a squirrel in the resulting documentation]
 
+![Alt](https://github.com/blackhatsquirrel/doyouneedapentest/blob/master/doyouneedaredteam/pictures/branding-white.png)
 ![Alt](https://github.com/blackhatsquirrel/doyouneedapentest/blob/master/doyouneedaredteam/pictures/redteamprocesstree.png)
