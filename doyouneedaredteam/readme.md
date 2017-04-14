@@ -1,1 +1,2 @@
-![Alt](doyouneedareadteam/pictures/Do you need a red team.png)
+![Alt](https://github.com/blackhatsquirrel/doyouneedapentest/blob/master/doyouneedaredteam/pictures/redteamprocesstree.png)
+
