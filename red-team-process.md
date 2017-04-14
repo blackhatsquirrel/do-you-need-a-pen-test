@@ -4,7 +4,7 @@ First things first, red team activities can be insanely valuable at demonstratin
 2) You don't segregate your stuff
 3) You don't monitor your stuff
 
-To really get the value out of a comprehensive test you need to make sure that you're not giving the testers an easy ride. The below process shows the basic methodology which an internal test might follow and allows you to remediate this issues before you're told somthing you probably already know (that you don't do 1-3 above). 
+To really get the value out of a comprehensive test you need to make sure that you're not giving the testers an easy ride. The below process shows the basic methodology which an internal test might follow and allows you to remediate this issues before you're told something you probably already know (that you don't do 1-3 above). 
 
 Even if you're still in the position when you comission the test it will allow you to have a much more productive scoping discussing with the team you bring in.
 
