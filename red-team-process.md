@@ -1,3 +1,5 @@
+![Alt](https://github.com/blackhatsquirrel/doyouneedapentest/blob/master/doyouneedaredteam/pictures/branding-white.png) 
+
 First things first, red team activities can be insanely valuable at demonstrating specific security weaknesses which you may never have even knew you had. However, the majority of internal testing activies will come back with literally exactly the same finding every single time. 
 
 1) You don't patch you stuff
